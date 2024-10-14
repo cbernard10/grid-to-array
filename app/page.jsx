@@ -138,7 +138,7 @@ export default function Home() {
             </svg>
           </div>
         </div>
-        <div className="flex flex-row gap-1">
+        <div className="flex flex-row gap-1 items-center">
           <span
             className="bg-blue-500 border-blue-800 border-2 cursor-pointer py-1 px-2 active:translate-y-[1px]"
             onClick={() => {
